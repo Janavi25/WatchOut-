@@ -36,3 +36,8 @@
  <img src="Screenshots/chat.jpeg" height="400"  />  <img src="Screenshots/chatsec.jpeg" height="400"  /> 
     <img src="Screenshots/dchat.jpeg" height="400"  /> <img src="Screenshots/emergency.jpeg" height="400"  /> 
     <img src="Screenshots/emergrencysearch.jpeg" height="400"  /> <img src="Screenshots/home.jpeg" height="400"  /> <img src="Screenshots/mapnormal.jpeg" height="400"  />   <img src="Screenshots/map.jpeg" height="400"  /> <img src="Screenshots/news.jpeg" height="400"  /> 
+     <img src="Screenshots/reg.jpeg" height="400"  /> <img src="Screenshots/log.jpeg" height="400"  /> 
+    <img src="Screenshots/splash.jpeg" height="400"  /> <img src="Screenshots/db.jpeg" height="400"  /> 
+    <img src="Screenshots/ldb.jpeg" height="400"  />
+    <img src="Screenshots/add.jpeg" height="400"  /> 
+    <img src="Screenshots/hm.jpeg" height="400"  /> 
