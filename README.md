@@ -5,7 +5,7 @@
 <body>
 <h1> Watch Out </h1>
 <p>
-  It is a Project which is divided into 2 parts, So the main Moto behind this which is why we develop this  app is That Every day now we are facing issues related to Women Rape Violence and much more. also some issues similar to one which is depicted in <b>URI</b> movie where Vicky Kaushal mom has a Problem because of which she forgets everything and ran out somewhere. So here we have developed a solution through which user can track there family member Via Google Map and not only that user can also Ask for help to Police which is the other app if wanted, by just clicking on a button and police will get the exact coordinated in real time.
+ This project is divided into two parts, and the main motivation behind its development is to address the increasing issues related to women's rape, violence, and other similar concerns. It also aims to tackle situations similar to the one depicted in the movie "URI," where Vicky Kaushal's mother faced a problem causing her to forget everything and run away. To provide a solution to these challenges, we have developed an app that allows users to track their family members using Google Maps. Additionally, users can seek help from the police by simply clicking a button, which will provide the police with real-time and accurate coordinates.
   </p>
   <h3> Other Features</h3>
   <li>Give position to family Members </li>
