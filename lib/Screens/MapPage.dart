@@ -31,7 +31,7 @@ class MapPageState extends State<MapPage> {
   double lat = 0, lng = 0;
   Completer<GoogleMapController> _controller = Completer();
   Set<Marker> _markers = {};
-  String googleAPIKey = "AIzaSyAt07QXD3BGWgWZCh15Rm122EvnH_aUg9I";
+  String googleAPIKey = "";
 
   // BitmapDescriptor sourceIcon;
   // BitmapDescriptor driverIcon;
